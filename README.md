@@ -1,1 +1,3 @@
-# Barbearia_AluraGH
+# Barbearia Alura!
+
+Esse projeto é sobre a barbearia Alura, onde cita horários de atendimento, sobre preços, cortes, etc...
